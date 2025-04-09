@@ -1,5 +1,8 @@
 # readme.md
 ADF-DIO-Gabriel
+
+/subscriptions/6ead3a07-82f3-4826-994a-e36fbf40fae9/resourceGroups/RG-Dio-Gabriel/providers/Microsoft.DataFactory/factories/adf-dio-gabriel
+
 {
     "name": "adf-dio-gabriel",
     "id": "/subscriptions/6ead3a07-82f3-4826-994a-e36fbf40fae9/resourceGroups/rg-dio-gabriel/providers/Microsoft.DataFactory/factories/adf-dio-gabriel",
